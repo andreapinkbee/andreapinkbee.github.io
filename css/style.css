@@ -152,13 +152,13 @@ sup {
 }
 
 a {
-  color: #0BCEAF;
+  color:  #6f42c1;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #078571;
+  color: #6f42c1;
   text-decoration: underline;
 }
 
@@ -9974,7 +9974,7 @@ h6,
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border-radius: 60px;
-  background: #0BCEAF;
+  background:  #6f42c1;
 }
 
 .contact-form .help-block ul {
