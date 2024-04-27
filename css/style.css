@@ -61,7 +61,7 @@ body {
   line-height: 1.5;
   color: #6c757d;
   text-align: left;
-  background-color: #ffffff;
+  background-color: #6f42c1;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -1664,7 +1664,7 @@ pre code {
 .table-info td,
 .table-info thead th,
 .table-info tbody + tbody {
-  border-color: #86cfda;
+  border-color: #6f42c1;
 }
 
 .table-hover .table-info:hover {
@@ -5599,7 +5599,7 @@ a.close.disabled {
   display: flex;
   align-items: center;
   padding: 0.25rem 0.75rem;
-  color: #6c757d;
+  color: #6f42c1;
   background-color: rgba(255, 255, 255, 0.85);
   background-clip: padding-box;
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
@@ -6078,7 +6078,7 @@ a.close.disabled {
   margin-bottom: 0;
   font-size: 1rem;
   color: #343a40;
-  background-color: #f7f7f7;
+  background-color: #6f42c1;
   border-bottom: 1px solid #ebebeb;
   border-top-left-radius: calc(0.3rem - 1px);
   border-top-right-radius: calc(0.3rem - 1px);
@@ -9866,7 +9866,7 @@ h6,
   width: 0;
   height: 0;
   left: -1px;
-  border-left: 16px solid #0BCEAF;
+  border-left: 16px solid #6f42c1;
   border-top: 11px solid transparent;
   border-bottom: 11px solid transparent;
 }
