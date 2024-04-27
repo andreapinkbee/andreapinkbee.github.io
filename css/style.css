@@ -6487,7 +6487,7 @@ button.bg-dark:focus {
 }
 
 .border-secondary {
-  border-color: #6c757d !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-success {
@@ -6495,15 +6495,15 @@ button.bg-dark:focus {
 }
 
 .border-info {
-  border-color: #17a2b8 !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-warning {
-  border-color: #ffc107 !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-danger {
-  border-color: #dc3545 !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-light {
@@ -6511,7 +6511,7 @@ button.bg-dark:focus {
 }
 
 .border-dark {
-  border-color: #343a40 !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-white {
