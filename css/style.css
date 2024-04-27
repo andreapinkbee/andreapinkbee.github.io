@@ -5095,45 +5095,45 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .alert-danger {
-  color: #721c24;
-  background-color: #f8d7da;
-  border-color: #f5c6cb;
+  color: #6f42c1;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .alert-danger hr {
-  border-top-color: #f1b0b7;
+  border-top-color: #6f42c1;
 }
 
 .alert-danger .alert-link {
-  color: #491217;
+  color: #6f42c1;
 }
 
 .alert-light {
-  color: #858585;
+  color: #6f42c1;
   background-color: white;
   border-color: white;
 }
 
 .alert-light hr {
-  border-top-color: #f2f2f2;
+  border-top-color: #6f42c1;
 }
 
 .alert-light .alert-link {
-  color: #6c6c6c;
+  color: #6f42c1;
 }
 
 .alert-dark {
-  color: #1b1e21;
-  background-color: #d6d8d9;
-  border-color: #c6c8ca;
+  color: #6f42c1;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .alert-dark hr {
-  border-top-color: #b9bbbe;
+  border-top-color: #6f42c1;
 }
 
 .alert-dark .alert-link {
-  color: #040505;
+  color: #6f42c1;
 }
 
 @keyframes progress-bar-stripes {
@@ -5207,20 +5207,20 @@ a.badge-dark:focus, a.badge-dark.focus {
 
 .list-group-item-action {
   width: 100%;
-  color: #495057;
+  color: #6f42c1;
   text-align: inherit;
 }
 
 .list-group-item-action:hover, .list-group-item-action:focus {
   z-index: 1;
-  color: #495057;
+  color: #6f42c1;
   text-decoration: none;
-  background-color: #f8f9fa;
+  background-color: #6f42c1;
 }
 
 .list-group-item-action:active {
-  color: #6c757d;
-  background-color: #e9ecef;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item {
@@ -5242,7 +5242,7 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item.disabled, .list-group-item:disabled {
-  color: #6c757d;
+  color: #6f42c1;
   pointer-events: none;
   background-color: #fff;
 }
@@ -5250,8 +5250,8 @@ a.badge-dark:focus, a.badge-dark.focus {
 .list-group-item.active {
   z-index: 2;
   color: #fff;
-  background-color: #0BCEAF;
-  border-color: #0BCEAF;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item + .list-group-item {
@@ -5404,131 +5404,131 @@ a.badge-dark:focus, a.badge-dark.focus {
 }
 
 .list-group-item-primary {
-  color: #066b5b;
-  background-color: #bbf1e9;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-primary.list-group-item-action:hover, .list-group-item-primary.list-group-item-action:focus {
-  color: #066b5b;
-  background-color: #a6ede2;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-primary.list-group-item-action.active {
   color: #fff;
-  background-color: #066b5b;
-  border-color: #066b5b;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-secondary {
-  color: #383d41;
-  background-color: #d6d8db;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-secondary.list-group-item-action:hover, .list-group-item-secondary.list-group-item-action:focus {
-  color: #383d41;
-  background-color: #c8cbcf;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-secondary.list-group-item-action.active {
   color: #fff;
-  background-color: #383d41;
-  border-color: #383d41;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-success {
-  color: #155724;
-  background-color: #c3e6cb;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-success.list-group-item-action:hover, .list-group-item-success.list-group-item-action:focus {
-  color: #155724;
-  background-color: #b1dfbb;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-success.list-group-item-action.active {
   color: #fff;
-  background-color: #155724;
-  border-color: #155724;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-info {
-  color: #0c5460;
-  background-color: #bee5eb;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-info.list-group-item-action:hover, .list-group-item-info.list-group-item-action:focus {
-  color: #0c5460;
-  background-color: #abdde5;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-info.list-group-item-action.active {
   color: #fff;
-  background-color: #0c5460;
-  border-color: #0c5460;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-warning {
-  color: #856404;
-  background-color: #ffeeba;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-warning.list-group-item-action:hover, .list-group-item-warning.list-group-item-action:focus {
-  color: #856404;
-  background-color: #ffe8a1;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-warning.list-group-item-action.active {
   color: #fff;
-  background-color: #856404;
-  border-color: #856404;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-danger {
-  color: #721c24;
-  background-color: #f5c6cb;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-danger.list-group-item-action:hover, .list-group-item-danger.list-group-item-action:focus {
-  color: #721c24;
-  background-color: #f1b0b7;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-danger.list-group-item-action.active {
   color: #fff;
-  background-color: #721c24;
-  border-color: #721c24;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-light {
-  color: #858585;
+  color: #6f42c1;
   background-color: white;
 }
 
 .list-group-item-light.list-group-item-action:hover, .list-group-item-light.list-group-item-action:focus {
-  color: #858585;
+  color: #6f42c1;
   background-color: #f2f2f2;
 }
 
 .list-group-item-light.list-group-item-action.active {
   color: #fff;
-  background-color: #858585;
-  border-color: #858585;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .list-group-item-dark {
-  color: #1b1e21;
-  background-color: #c6c8ca;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-dark.list-group-item-action:hover, .list-group-item-dark.list-group-item-action:focus {
-  color: #1b1e21;
-  background-color: #b9bbbe;
+  color: #6f42c1;
+  background-color: #6f42c1;
 }
 
 .list-group-item-dark.list-group-item-action.active {
   color: #fff;
-  background-color: #1b1e21;
-  border-color: #1b1e21;
+  background-color: #6f42c1;
+  border-color: #6f42c1;
 }
 
 .close {
