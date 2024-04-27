@@ -6079,7 +6079,7 @@ a.close.disabled {
   font-size: 1rem;
   color: #343a40;
   background-color: #f7f7f7;
-  border-bottom: 1px solid #ebebeb;
+  border-bottom: 1px solid #6f42c1;
   border-top-left-radius: calc(0.3rem - 1px);
   border-top-right-radius: calc(0.3rem - 1px);
 }
@@ -6090,7 +6090,7 @@ a.close.disabled {
 
 .popover-body {
   padding: 0.5rem 0.75rem;
-  color: #6c757d;
+  color: #6f42c1;
 }
 
 .carousel {
@@ -6421,7 +6421,7 @@ button.bg-danger:focus {
 a.bg-light:hover, a.bg-light:focus,
 button.bg-light:hover,
 button.bg-light:focus {
-  background-color: #e6e6e6 !important;
+  background-color: #6f42c1 !important;
 }
 
 .bg-dark {
@@ -6483,7 +6483,7 @@ button.bg-dark:focus {
 }
 
 .border-primary {
-  border-color: #0BCEAF !important;
+  border-color: #6f42c1 !important;
 }
 
 .border-secondary {
